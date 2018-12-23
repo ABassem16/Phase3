@@ -2,6 +2,12 @@ package Masroka;
 import java.util.*;
 public class User
 {
+	/*Team IDS
+	 * Ahmed Bassem 20160008
+	 * Mahmoud Hany 20160235
+	 * Omar Mokhtar 20160165
+	 * Fahd Mohamed Hussein 20160178
+	 */
 	private String Username;
 	private String Password;
 	private String Email;
